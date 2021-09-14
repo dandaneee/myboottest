@@ -10,7 +10,7 @@ public class GituploadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GituploadApplication.class, args);
-		System.out.println("출력");
+		System.out.println("출2");
 	}
 
 }
