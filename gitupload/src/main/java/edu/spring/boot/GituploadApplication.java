@@ -10,7 +10,7 @@ public class GituploadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GituploadApplication.class, args);
-		System.out.println("출2");
+		System.out.println("수정합니다");
 	}
 
 }
